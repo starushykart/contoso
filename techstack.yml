@@ -2,7 +2,7 @@ repo_name: starushykart/contoso
 report_id: 9c978d6238360fa81f1e8b91ad530513
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:27:48+00:00'
+timestamp: '2024-02-29T18:00:23+00:00'
 requested_by: starushykart
 provider: github
 branch: main
@@ -78,7 +78,7 @@ tools:
   last_updated_by: Artem Starushyk
   last_updated_on: 2023-04-05 11:27:22.000000000 Z
 - name: Entity Framework Core
-  description: 'Lightweight and cross-platform version of the popular Entity Framework '
+  description: Lightweight and cross-platform version of the popular Entity Framework
   website_url: https://docs.microsoft.com/en-us/ef/core/
   license: MIT
   open_source: true
